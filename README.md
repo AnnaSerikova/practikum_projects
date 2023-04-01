@@ -10,6 +10,11 @@ Each project is placed in a separate branch given a meaningful title.
 Analysing Moscow catering market and suggesting an area for a new coffee house to be opened.
 Contains an ipynb workbook and a pdf describing general results.
 
+## [cinema](https://github.com/AnnaSerikova/practikum_projects/blob/main/cinema/cinema.ipynb)
+
+Analysing film distribution market in Russia during 2010 - 2019 drawing special attention to films created with governor support
+Contains an ipynb workbook.
+
 ## [real_estate](https://nbviewer.org/github/AnnaSerikova/practikum_projects/blob/main/real_estate/real_estate.ipynb)
 
 Analysing the residential properties market in Saint-Petersburg, Russia
