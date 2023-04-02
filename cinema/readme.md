@@ -6,5 +6,13 @@
 3. Age restriction / box office dependancy
 4. Governor support affection
 
+## Key conclusions
+1. The amount of films launched yearly have been increasing since 2017.
+2. 16 years plus is the most profitable age restriction category.
+3. High box office does not mean high ratings.
+
+## Project status
+Complete
+
 ## Tools
 pandas
