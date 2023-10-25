@@ -30,10 +30,12 @@ Defining the most promising game for advertisement planning
 Contains an ipynb workbook.
 
 ## [entertainment] (https://github.com/AnnaSerikova/practikum_projects/blob/main/entertainment/entertainment_final.ipynb)
+
 Analyzing the reasons an entertainment application suffers monthly losses
 Contains an ipynb workbook.
 
 ## [mashine_learning] (https://github.com/AnnaSerikova/practikum_projects/blob/main/machine_learning/ml_final.ipynb)
+
 Predicting a fitness club clients’ churn
 Contains an ipynb workbook.
 
