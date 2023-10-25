@@ -5,11 +5,11 @@ Each project is placed in a separate branch given a meaningful title.
 
 **Please mind that certain data does not render correctly. In order to avoid issues please access the ipynb files via [external viewer](https://nbviewer.org/). To see the source code please see the corresponding folder within the [repository](https://github.com/AnnaSerikova/practikum_projects).**
 
-## [ab_test] (https://nbviewer.org/github/AnnaSerikova/practikum_projects/blob/main/ab_test/ab_test_final.ipynb)
+## [ab_test](https://nbviewer.org/github/AnnaSerikova/practikum_projects/blob/main/ab_test/ab_test_final.ipynb)
 Analyzing the results of an AB-test for both raw and cleaned data
 Contains an ipynb workbook.
 
-## [ab_qualification] (https://nbviewer.org/github/AnnaSerikova/practikum_projects/blob/main/ab_qualification/ab_test_qualification_final.ipynb)
+## [ab_qualification](https://nbviewer.org/github/AnnaSerikova/practikum_projects/blob/main/ab_qualification/ab_test_qualification_final.ipynb)
 Analyzing the results of an AB-test
 Contains an ipynb workbook.
 
@@ -29,12 +29,12 @@ Contains an ipynb workbook.
 Defining the most promising game for advertisement planning
 Contains an ipynb workbook.
 
-## [entertainment] (https://github.com/AnnaSerikova/practikum_projects/blob/main/entertainment/entertainment_final.ipynb)
+## [entertainment](https://github.com/AnnaSerikova/practikum_projects/blob/main/entertainment/entertainment_final.ipynb)
 
 Analyzing the reasons an entertainment application suffers monthly losses
 Contains an ipynb workbook.
 
-## [mashine_learning] (https://github.com/AnnaSerikova/practikum_projects/blob/main/machine_learning/ml_final.ipynb)
+## [mashine_learning](https://github.com/AnnaSerikova/practikum_projects/blob/main/machine_learning/ml_final.ipynb)
 
 Predicting a fitness club clients’ churn
 Contains an ipynb workbook.
