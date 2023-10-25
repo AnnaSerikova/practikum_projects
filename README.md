@@ -20,7 +20,8 @@ Contains an ipynb workbook and a pdf describing general results.
 
 ## [cinema](https://github.com/AnnaSerikova/practikum_projects/blob/main/cinema/cinema.ipynb)
 
-Analysing film distribution market in Russia during 2010 - 2019 drawing special attention to films created with governor support
+Analysing film distribution market in Russia during 2010 - 2019 drawing special attention to films created with governor support.
+
 Contains an ipynb workbook.
 
 ## [computer_games](https://github.com/AnnaSerikova/practikum_projects/blob/main/computer_games/computer_games_final.ipynb)
