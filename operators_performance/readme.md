@@ -1,6 +1,6 @@
 # operators_performance
 **Defining the call centers’ operators whose performance is below the baseline.**
-## The project reveals efficiency targets for call centers’ operators and helps to define those operators who do not match ones.
+The project reveals efficiency targets for call centers’ operators and helps to define those operators who do not match ones.
 
 ## Key conclusions
 1. There are 48 call centers whose operators’ performance is below the baseline.

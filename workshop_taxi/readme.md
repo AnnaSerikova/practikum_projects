@@ -1,6 +1,6 @@
 # workshop_taxi
 **Revealing the optimal coverage for a taxi service necessary for balancing demand and supply throughout the day.**
-## The project shows the time periods during the day when the taxi coverage is critically low and suggests measures for coverage balancing.
+The project shows the time periods during the day when the taxi coverage is critically low and suggests measures for coverage balancing.
 
 ## Key conclusions
 1. Unfunded revenue could be as much as $3 million.

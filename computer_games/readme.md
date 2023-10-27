@@ -1,6 +1,6 @@
 # computer_games
 **Defining the most promising game for advertisement planning.**
-## The project defines popular platforms and games in order to plan advertisement campaigns effectively.
+The project defines popular platforms and games in order to plan advertisement campaigns effectively.
 
 ## Key conclusions
 1. There are 3 platforms worth advertising during 2017: 3DS, PS3, PS4.
@@ -11,4 +11,4 @@
 Complete
 
 ## Tools
-pandas, numpy, matplotlib, seaborn scipy
+pandas, numpy, matplotlib, seaborn, scipy

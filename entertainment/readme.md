@@ -1,6 +1,6 @@
 # entertainment
 **Analyzing the reasons an entertainment application suffers monthly losses.**
-## The project focuses on marketing expenses as well as on metrics such as CAC, LTV, ROI, conversion and retention.
+The project focuses on marketing expenses as well as on metrics such as CAC, LTV, ROI, conversion and retention.
 
 ## Key conclusions
 1. Advertisement in general does not pay off.
