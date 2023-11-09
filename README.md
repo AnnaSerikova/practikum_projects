@@ -41,7 +41,7 @@ Analyzing the reasons an entertainment application suffers monthly losses
 
 Contains an ipynb workbook.
 
-## [mashine_learning](https://github.com/AnnaSerikova/practikum_projects/blob/main/machine_learning/ml_final.ipynb)
+## [machine_learning](https://github.com/AnnaSerikova/practikum_projects/blob/main/machine_learning/ml_final.ipynb)
 
 Predicting a fitness club clients’ churn
 
